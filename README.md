@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 - 💁‍♂️ Hi, my name is Andreas and I am 32 years old.
 - 🔭 I’m currently a student at the ,,Coding Bootcamp Europe" -> "https://www.coding-bootcamps.eu".
